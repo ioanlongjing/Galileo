@@ -23,3 +23,6 @@ void loop(void)
 }
 
 ````
+
+http://arduino.cc/en/Reference/HomePage
+關於Function 請參考官方網站
